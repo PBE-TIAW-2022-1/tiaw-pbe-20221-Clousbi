@@ -52,107 +52,181 @@ Sistemas de Informação
 # Introdução
 
 ## Problema
+Atualmente, muitas pessoas possuem uma rotina bastante exaustiva, com muitos compromissos 
+e bastante regrada, pensando nisso, nós, da PRSystems, resolvemos pegar esse problema em 
+comum na sociedade para tentar deliberá-lo por uma aplicação prática e intuitiva. Muitas das 
+vezes, com várias tarefas para fazer em simultâneo, o indivíduo não se sabe ao certo por onde, 
+como, quando começar e tem uma “procrastinação” por não se sentir na segurança/estimulo de 
+fazer uma determinada tarefa. Assim, com o desenvolvimento do gestor de rotinas, impulsiona 
+ao usuário ter um momento de organização diária consequentemente a uma vida produtiva.
 
-......  COLOQUE AQUI O SEU TEXTO ......
+# Matriz certezas, supos-sições e dúvidas
+Certezas
+* Uso do HTML, CSS e Java Script 
+Dúvidas
+* Como vamos fazer em HTML
+* Prazo suficiente para o aplicativo
+*  Escolha das pessoas para entrevista 
+Suposições
+* Site com mobile (protótipo)
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+# Brainstorming
+* Ideia 1: Calendário com bloco de notas;
+* Ideia 2: Por meio do site WEB;
+* Ideia 3: Com lembretes;
+* Ideia 4: Lembretes com alarme;
+* Ideia 5: Cronogramas;
+* Ideia 6: Sendo mobile.
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O objetivo do projeto é basicamente criar uma aplicação “web” que, através de calendários 
+interativos,  bloco  de  notas,  lembretes  e  muitas  outras  funções  rotineiras,  vai  conseguir 
+solucionar problemas na organização da rotina das pessoas que não possuem muito tempo e 
+disposição para fazer o mesmo manualmente.
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
+A aplicação vai ser criada para poder melhorar o desenvolvimento da sociedade em geral, 
+automatizando a organização do seu dia a dia, auxiliando o usuário a gerir sua rotina com dicas 
+e informações importantes. Simplificando, uma rotina é tudo feito em uma base regular. Por 
+sua vez, o ato de gerenciar envolve planejar e organizar fluxos de trabalho. Juntando essas duas 
+definições, a gerenciamento do dia-a-dia inclui o processo de planejamento e organização das 
+atividades que uma empresa costuma realizar — operações.
+O primeiro impacto do gerenciamento diário é reduzir o desperdício de tempo e recursos, 
+projetando metas e implementando etapas. Como resultado, pode-se verificar um aumento na 
+produtividade da empresa. Uma rotina bem estruturada permite que os gestores tenham uma 
+visão inteira do processo produtivo, de forma que as metas impostas estejam mais alinhadas 
+com a real situação da organização. Tais objetivos tendem a tornar as previsões de resultados 
+mais precisas.
+          
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Como dito nos tópicos anteriores, as empresas necessitam expressivamente de um cronograma 
+que atenda a produtividade. O nosso público-alvo serão pessoas entre 14 e 45 anos que possuem 
+uma rotina pesada, sem muito tempo livre, e com bastantes responsabilidades durante todo o 
+mês.  Além  disso,  essa  faixa  etária  possui  a  maior  porcentagem  de  PEA  (População 
+Economicamente Ativa), as pessoas que estão entrando ou já estão no mercado de trabalho, 
+sendo assim, estão no auge de suas vidas, com estudo, trabalho, vida pessoal, saúde, criação de 
+famílias e compra de bens maiores como casa, carro, ou seja, uma rotina com várias decisões e 
+ações que para um só indivíduo é muito difícil gerir.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Nossa empresa irá utilizar os meios em HTML5 e CSS3 para a realização do site. Estamos avaliando em usar JavaScript e a prática aleatória nos processos de dicas para o usuário. Nosso projeto tem base em armazenar as informações na qual ele irá colocar em nosso site para organizar sua rotina.
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Com a persquisa que fizemos no mapa de empatia, a nossa persona teria idade entre 20 a 25 anos, do sexo feminino, com o conhecimento do uso de aplicativos de rotina, que estuda e trabalha. Nosso foco são essas características com algumas alterações em relação a roupas, corpo e gostos.
 
+> **Mapa de Empatia**
 
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
-> 
+Qual (s) funcionalidade (s) você acha importante em um aplicativo de rotinas?
+* Alarme para compromisso.
+* Lembrar dos compromissos do futuro.
+* Objetividade e intuitivo
+* Agenda de tarefas e notificações.
+* Lembrete de algo importante
+* Objetividade, marcadores para dar ok,
+* Rotinas
+* Sistema de metas e desenvolvimento em constância
+* Cronometragem de tarefas, por exemplo, para demarcar o tempo de estudo/trabalho e 
+tempo de descanso
+* Organizar o dia a dia
+* Despertador e temporizador
+* Não uso, por isso não tenho conhecimento
+Como você se vê no dia-a-dia usando-o (motivos)?
+* Nunca precisei de usar.
+* Usar para consultas médicas.
+* Para organizar tarefas
+* Muitas vezes deixo as coisas importantes para a última hora ele poderia me ajudar a 
+consertar esse meu defeito.
+* Gerenciando minha rotina e otimizando tempo
+* Para afazeres
+* Sem tempo
+* Regrar minhas atividades no dia a dia
+* Limpar a casa e ao mesmo tempo estudar é um pouco cansativo, por isso geralmente 
+trabalho cronometrando meu tempo fazendo essas tarefas para então reveza-las
+* Seria corrido então deveria ser prático
+* Não vejokkkkk
+Quais características (temas, cores, layout) tornariam o app mais atraente para você?
+* Cores frias.
+* Tema geométricos, Cores claras.
+* Características leves
+* Layout intuitivo, sem muito texto e cores pastéis (no mais uma palheta de tons 
+* Pastéis, puxado para tons mais frios)
+* Talvez cores pastéis
+* Modo Noturno 
+* Cor laranja deixa calmo
+O que acha que deve melhorar com aplicativos já criados?
+* Às vezes diminuir a quantidade de funções seria bom e então focar bem na aplicação de 
+uma específica função
+* NAO TER ANÚNCIOS.
+* A praticidade
+* Nunca usei esse aplicativo.
+* Nunca usei.
+* Não sei
+* Gratuidade na experiência completa
+* Tudo
+* A notificação só sair depois que for concluída
+* A praticidade.
+* Objetividade e facilidade em aprender a usa-lo
+* Objetividade e facilidade para criar novas tarefas
+Vantagens de ter esse aplicativo/ experiências positivas que tiveram com algum aplicativo 
+já criado.
+* Adequado para gestar tempo, especialmente quando se é uma pessoa que se distrai fácil
+* Organizar a vida de alguém
+* Conseguir organizar uma rotina e fazer tudo que é necessário do dia a dia
+* Para ajudar a não faltar nos compromissos.
+* Ajuda a se organizar.
+* Nunca usei
+* Glorify (aplicativo de devocionais bíblicos com metas diárias e estágios e bônus são 
+liberados de acordo com o que você vai avançando durante o período de devocional). 
+* Me ajuda a manter constância na leitura diária.
+* Se a pessoa não tem disciplina, não adianta um app de rotina! Disciplina é tudo nessa 
+vida! 
+* Rotina mais produtiva
+* Controlar a minha rotina desorganizada para sobrar um tempinho só pra eu descansar.
+* Modo noturno e praticidade
+* Praticidade no dia a dia
+
 > **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
+ 
+DADOS
+* Nome: Tina 
+* Idade: 20-25 anos 
+* Hobby: Estudar nutrição, escutar música, jogar videogame, jogar vôlei. 
+* Trabalho: Estudar nutrição, nutricionista de academia 
+* Personalidade: criativa, ambiciosa, carismática
+* Sonhos: Referência na nutrição para pessoas que buscam o físico a saúde física e mental
+* Motivações e esperanças: Ela que ser um exemplo para as pessoas para que o mundo 
+seja mais proativo e organizado.
+* Medos e dilemas: não conseguir se organizar na faculdade e desapontar as pessoas que 
+não acreditam nela. 
+* Estilos: Com pouco musculo, morena, alta 1,82, olhos azuis, fone de ouvido, fita de 
+treino verde, roupas pretas.
+
+OBJETIVOS-CHAVE
+Quais são os objetivos chave da pessoa durante a utilização do serviço? Por que eles precisam 
+deste serviço?
+* Objetivo: Ajudar a organizar a rotina
+
+OBJETOS E LUGARES
+Quais objetos físicos e digitais essa pessoa usa? Quando, onde e como ela os usa?
+* Objetos: Fone de ouvido, livro, bola de vôlei
+* Lugares que mais frequenta: biblioteca, escola, quadra, academia, shows
+
+COMO DEVEMOS TRATÁ-LA
+Como devemos tratá-la para que ela se sinta bem? Quais os tipos de comportamento que deixam 
+essa pessoa feliz?
+* Como gosta de ser tratada: conversas espontâneas e aleatórias, respeito e lealdade
+
+NUNCA DEVEMOS
+O que nunca devemos fazer em relação a essa pessoa? Que tipo de atitude ela não suporta? O 
+que deixa essa pessoa furiosa?
+* Coisas que não gosta: pessoas não comprometidas, mentirosas e amizade passageiras 
+e não gosta de tomate.
+
 
 
 ## Histórias de Usuários
@@ -164,16 +238,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
 
@@ -183,37 +247,21 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Receber informações do usuário | ALTA | 
+|RF-002| Planilhas com atividades e lembretes referentes às necessidades dos usuários   | ALTA |
+|RF-003|Sistemas de alarmes (referente aos lembretes)   | MÉDIA |
+|RF-004| Bloco de notas (caso haja necessidade)  | MÉDIA |
+|RF-005| Dicas para o usuário (ex.: rotina de estudo, dica: como ajustar/montar um local de estudo 
+produtivo)  | BAIXA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|RNF-001| Segurança de dados   | ALTA | 
+|RNF-002| Armazenamento offline (caso Mobile) |  BAIXA | 
+|RNF-001| Acessibilidades  | MÉDIA | 
 
 
 ## Restrições
@@ -222,165 +270,87 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+|01| Financeiro (se não fosse fictício) |
+|02| Tempo disponibilizado    |
+|03| Uso da aleatoriedade no site    |
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
-
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+Como nosso projeto requer que desenvolva um site WEB, desenvolvemos primeiro um fluxo de usuário simples para termos uma ideia principal de como vamos colocar no plano do site. Após esse processo, tivemos a decisão de desenvolver por meio mobile e depois em site desktop. Por ser algo que o usuário vai demandar mais na prática, o uso mobile é um meio mais usual do nosso projeto ser utilizado.
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
-
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
+<img src="imagens final/fluxo de usuario.png" alt="Fluxo">
 > ![Exemplo de UserFlow](images/userflow.jpg)
 
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+* Figura 1 - Página principal
+* Figura 2 - Registro do usuário
+* Figura 3 - Confirmação do email
+* Figura 4 - Login
+* Figura 5 - Home
+* Figura 6 - Informações do usuário
+* Figura 7 - Aba exercícios
+* Figura 8 - Dia-a-dia rotina
+* Figura 9 - Aba estudos
+* Figura 10 - Aba agenda
+* Figura 11 - LoginWEB
+* Figura 12 - HomeWEB
+* Figura 13 - Aba de estudosWEB
+* Figura 14 - Aba de exercíciosWEB
+* Figura 15 - AgendaWEB
+* Figura 16 - InformaçõesWEB.
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
 > ![Exemplo de Wireframe](images/wireframe-example.png)
 
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nossa metodologia foi baseada no método Kanban, onde os nomes foram separados por cores e divididos as tarefas em fluxos de "Fazer", "Fazendo", "Revisão" e "Feito", informados com a semana e o dia feitos.
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Segue abaixo os anexos:
+
+> ![Exemplo do Kanban](images/wireframe-example.png)
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
+* Bianca Marques Teixeira: Metodologia, Projeto de Interface, Editar no Git, Contexto do projeto, Persona, Templates.
+* Caio Machado Taussig: Criação da Logo, Contexto do projeto, Persona, Templates.
+* Carlos Alberto Diniz Junior: Especificação, Persona, Templates.
+* Diogo Henrique Afonso Silva: Projeto de Interface, Slides, Persona, Templates.
+* Robert William Batista dos Santos Silva : Projeto de Interface, Persona, Templates.
+* Vinicius Resende do Carmo: Projeto de Interface, Persona, Templates.
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
-
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+|Processo de Design Thinkgin  | Word | - | 
+|Repositório de código | GitHub | https://github.com/Clousbi/ProjetoRotina | 
+|Hospedagem do site | - | - | 
+|Protótipo Interativo 1 | Figma | https://www.figma.com/proto/owfF2t9p0Sc4RZsWc4TUpz/Untitled?node-id=16%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=16%3A2&show-proto-sidebar=1 | 
+|Protótipo Interativo 2 | Figma | https://www.figma.com/proto/YAgKSDlkGNv2LQq4LYepvH/Prototyping-in-Figma?node-id=0%3A78&scaling=scale-down&page-id=0%3A1&starting-point-node-id=0%3A2 | 
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github](https://github.com/Clousbi/ProjetoRotina) foi utilizado para hospedagem do repositório `ProjetoRotina`.
 
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
 > O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
+
+* `main`: versão estável já testada do software
+* `template`: templates criados 
+* `interface`: interfaces do projeto
+* `especificacao`: pesquisas específicas do projeto
+* `contexto`: desenvolvimento do projeto
+
+> Quanto à gerência de issues, o projeto ainda não adotou esses métodos.
+
+
 > **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
+
+> ![Exemplo do git](images/Github-Workflow.png)
 
 
 
