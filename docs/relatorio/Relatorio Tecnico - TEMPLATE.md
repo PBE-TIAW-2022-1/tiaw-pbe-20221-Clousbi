@@ -60,14 +60,14 @@ como, quando começar e tem uma “procrastinação” por não se sentir na seg
 fazer uma determinada tarefa. Assim, com o desenvolvimento do gestor de rotinas, impulsiona 
 ao usuário ter um momento de organização diária consequentemente a uma vida produtiva.
 
-# Matriz certezas, supos-sições e dúvidas
-Certezas
+# Matriz certezas, suposições e dúvidas
+> Certezas
 * Uso do HTML, CSS e Java Script 
-Dúvidas
+> Dúvidas
 * Como vamos fazer em HTML
 * Prazo suficiente para o aplicativo
 *  Escolha das pessoas para entrevista 
-Suposições
+> Suposições
 * Site com mobile (protótipo)
 
 # Brainstorming
@@ -235,8 +235,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Estudante do ENEM | Uma rotina focada em estudos para faculdade | dedicar e 
+montar um ambiente de estudos corretamente. |
+|Pessoa que vai na academia | Aprender a dividir meu treino corretamente | Fazer o "projetinho verão" mais top possível |
 
 
 ## Requisitos
@@ -251,8 +252,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| Planilhas com atividades e lembretes referentes às necessidades dos usuários   | ALTA |
 |RF-003|Sistemas de alarmes (referente aos lembretes)   | MÉDIA |
 |RF-004| Bloco de notas (caso haja necessidade)  | MÉDIA |
-|RF-005| Dicas para o usuário (ex.: rotina de estudo, dica: como ajustar/montar um local de estudo 
-produtivo)  | BAIXA |
+|RF-005| Dicas para o usuário (ex.: rotina de estudo, dica: como ajustar/montar um local de estudo produtivo)| BAIXA |
 
 
 ### Requisitos não Funcionais
@@ -280,8 +280,8 @@ Como nosso projeto requer que desenvolva um site WEB, desenvolvemos primeiro um 
 
 ## User Flow
 
-<img src="imagens final/fluxo de usuario.png" alt="Fluxo">
-> ![Exemplo de UserFlow](images/userflow.jpg)
+<img src="imagens/fluxo de usuario.png" alt="Fluxo">
+![Exemplo de UserFlow](imagens/fluxo.png)
 
 
 ## Wireframes
@@ -302,6 +302,8 @@ Como nosso projeto requer que desenvolva um site WEB, desenvolvemos primeiro um 
 * Figura 14 - Aba de exercíciosWEB
 * Figura 15 - AgendaWEB
 * Figura 16 - InformaçõesWEB.
+
+<img src="imagens/1.png" alt="Wireframe">
 
 > ![Exemplo de Wireframe](images/wireframe-example.png)
 
