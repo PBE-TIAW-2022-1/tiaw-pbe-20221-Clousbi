@@ -121,7 +121,7 @@ Com a persquisa que fizemos no mapa de empatia, a nossa persona teria idade entr
 
 > **Mapa de Empatia**
 
-Qual (s) funcionalidade (s) você acha importante em um aplicativo de rotinas?
+> Qual (s) funcionalidade (s) você acha importante em um aplicativo de rotinas?
 * Alarme para compromisso.
 * Lembrar dos compromissos do futuro.
 * Objetividade e intuitivo
@@ -135,7 +135,9 @@ tempo de descanso
 * Organizar o dia a dia
 * Despertador e temporizador
 * Não uso, por isso não tenho conhecimento
-Como você se vê no dia-a-dia usando-o (motivos)?
+
+> Como você se vê no dia-a-dia usando-o (motivos)?
+
 * Nunca precisei de usar.
 * Usar para consultas médicas.
 * Para organizar tarefas
@@ -149,7 +151,9 @@ consertar esse meu defeito.
 trabalho cronometrando meu tempo fazendo essas tarefas para então reveza-las
 * Seria corrido então deveria ser prático
 * Não vejokkkkk
-Quais características (temas, cores, layout) tornariam o app mais atraente para você?
+
+> Quais características (temas, cores, layout) tornariam o app mais atraente para você?
+
 * Cores frias.
 * Tema geométricos, Cores claras.
 * Características leves
@@ -158,7 +162,9 @@ Quais características (temas, cores, layout) tornariam o app mais atraente para
 * Talvez cores pastéis
 * Modo Noturno 
 * Cor laranja deixa calmo
-O que acha que deve melhorar com aplicativos já criados?
+
+> O que acha que deve melhorar com aplicativos já criados?
+
 * Às vezes diminuir a quantidade de funções seria bom e então focar bem na aplicação de 
 uma específica função
 * NAO TER ANÚNCIOS.
@@ -172,8 +178,10 @@ uma específica função
 * A praticidade.
 * Objetividade e facilidade em aprender a usa-lo
 * Objetividade e facilidade para criar novas tarefas
-Vantagens de ter esse aplicativo/ experiências positivas que tiveram com algum aplicativo 
+
+> Vantagens de ter esse aplicativo/ experiências positivas que tiveram com algum aplicativo 
 já criado.
+
 * Adequado para gestar tempo, especialmente quando se é uma pessoa que se distrai fácil
 * Organizar a vida de alguém
 * Conseguir organizar uma rotina e fazer tudo que é necessário do dia a dia
@@ -192,7 +200,7 @@ vida!
 
 > **Exemplo de Persona**
  
-DADOS
+> DADOS
 * Nome: Tina 
 * Idade: 20-25 anos 
 * Hobby: Estudar nutrição, escutar música, jogar videogame, jogar vôlei. 
@@ -206,22 +214,22 @@ não acreditam nela.
 * Estilos: Com pouco musculo, morena, alta 1,82, olhos azuis, fone de ouvido, fita de 
 treino verde, roupas pretas.
 
-OBJETIVOS-CHAVE
+> OBJETIVOS-CHAVE
 Quais são os objetivos chave da pessoa durante a utilização do serviço? Por que eles precisam 
 deste serviço?
 * Objetivo: Ajudar a organizar a rotina
 
-OBJETOS E LUGARES
+> OBJETOS E LUGARES
 Quais objetos físicos e digitais essa pessoa usa? Quando, onde e como ela os usa?
 * Objetos: Fone de ouvido, livro, bola de vôlei
 * Lugares que mais frequenta: biblioteca, escola, quadra, academia, shows
 
-COMO DEVEMOS TRATÁ-LA
+> COMO DEVEMOS TRATÁ-LA
 Como devemos tratá-la para que ela se sinta bem? Quais os tipos de comportamento que deixam 
 essa pessoa feliz?
 * Como gosta de ser tratada: conversas espontâneas e aleatórias, respeito e lealdade
 
-NUNCA DEVEMOS
+> NUNCA DEVEMOS
 O que nunca devemos fazer em relação a essa pessoa? Que tipo de atitude ela não suporta? O 
 que deixa essa pessoa furiosa?
 * Coisas que não gosta: pessoas não comprometidas, mentirosas e amizade passageiras 
@@ -235,8 +243,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Estudante do ENEM | Uma rotina focada em estudos para faculdade | dedicar e 
-montar um ambiente de estudos corretamente. |
+|Estudante do ENEM | Uma rotina focada em estudos para faculdade | dedicar e montar um ambiente de estudos corretamente. |
 |Pessoa que vai na academia | Aprender a dividir meu treino corretamente | Fazer o "projetinho verão" mais top possível |
 
 
@@ -303,9 +310,8 @@ Como nosso projeto requer que desenvolva um site WEB, desenvolvemos primeiro um 
 * Figura 15 - AgendaWEB
 * Figura 16 - InformaçõesWEB.
 
-<img src="imagens/1.png" alt="Wireframe">
 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+> ![Exemplo de Wireframe](docs/relatorio/1.png)
 
 
 # Metodologia
