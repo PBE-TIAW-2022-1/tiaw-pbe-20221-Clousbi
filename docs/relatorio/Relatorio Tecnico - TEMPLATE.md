@@ -294,25 +294,41 @@ Como nosso projeto requer que desenvolva um site WEB, desenvolvemos primeiro um 
 ## Wireframes
 
 * Figura 1 - Página principal
-* Figura 2 - Registro do usuário
-* Figura 3 - Confirmação do email
-* Figura 4 - Login
-* Figura 5 - Home
-* Figura 6 - Informações do usuário
-* Figura 7 - Aba exercícios
-* Figura 8 - Dia-a-dia rotina
-* Figura 9 - Aba estudos
-* Figura 10 - Aba agenda
-* Figura 11 - LoginWEB
-* Figura 12 - HomeWEB
-* Figura 13 - Aba de estudosWEB
-* Figura 14 - Aba de exercíciosWEB
-* Figura 15 - AgendaWEB
-* Figura 16 - InformaçõesWEB.
-
-
-> ![Exemplo de Wireframe](docs/relatorio/1.png)
 > https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/79e8b5550102b15f8b352d69069ade1be62e148d/docs/relatorio/1.png
+* Figura 2 - Registro do usuário
+> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/2.png
+* Figura 3 - Confirmação do email
+> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/3.png
+* Figura 4 - Login
+> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/4.png
+* Figura 5 - Home
+> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/5.png
+* Figura 6 - Informações do usuário
+> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/6.png
+* Figura 7 - Aba exercícios
+> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/7.png
+* Figura 8 - Dia-a-dia rotina
+> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/8.png
+* Figura 9 - Aba estudos
+> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/9.png
+* Figura 10 - Aba agenda
+> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/10.png
+* Figura 11 - LoginWEB
+> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio11.png
+* Figura 12 - HomeWEB
+> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/12.png
+* Figura 13 - Aba de estudosWEB
+> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/13.png
+* Figura 14 - Aba de exercíciosWEB
+> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/14.png
+* Figura 15 - AgendaWEB
+> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/15.png
+* Figura 16 - InformaçõesWEB.
+> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/16.png
+
+
+![Exemplo de Wireframe](docs/relatorio/1.png)
+
 
 
 # Metodologia
