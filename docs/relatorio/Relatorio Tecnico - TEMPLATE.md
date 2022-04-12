@@ -287,9 +287,7 @@ Como nosso projeto requer que desenvolva um site WEB, desenvolvemos primeiro um 
 
 ## User Flow
 
-<img src="imagens/fluxo de usuario.png" alt="Fluxo">
-![Exemplo de UserFlow](imagens/fluxo.png)
-
+> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/56a0fc5559097bc2e3c7a8a698bf66d7472c7ab8/docs/relatorio/fluxo%20de%20usuario.png
 
 ## Wireframes
 
@@ -326,18 +324,13 @@ Como nosso projeto requer que desenvolva um site WEB, desenvolvemos primeiro um 
 * Figura 16 - InformaçõesWEB.
 > https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/16.png
 
-
-![Exemplo de Wireframe](docs/relatorio/1.png)
-
-
-
 # Metodologia
 
 Nossa metodologia foi baseada no método Kanban, onde os nomes foram separados por cores e divididos as tarefas em fluxos de "Fazer", "Fazendo", "Revisão" e "Feito", informados com a semana e o dia feitos.
 
 Segue abaixo os anexos:
 
-> ![Exemplo do Kanban](images/wireframe-example.png)
+> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/87aa82059b51be0972b44e2db4028b096d602aa1/docs/relatorio/METODOLOGIA.pptx
 
 ## Divisão de Papéis
 
@@ -375,9 +368,7 @@ A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-s
 
 > **Exemplo - GitHub Feature Branch Workflow**:
 
-> ![Exemplo do git](images/Github-Workflow.png)
-
-
+https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/56a0fc5559097bc2e3c7a8a698bf66d7472c7ab8/docs/relatorio/git.png
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
