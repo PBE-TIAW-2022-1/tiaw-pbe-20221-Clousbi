@@ -312,6 +312,7 @@ Como nosso projeto requer que desenvolva um site WEB, desenvolvemos primeiro um 
 
 
 > ![Exemplo de Wireframe](docs/relatorio/1.png)
+> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/79e8b5550102b15f8b352d69069ade1be62e148d/docs/relatorio/1.png
 
 
 # Metodologia
