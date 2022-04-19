@@ -50,6 +50,8 @@ Sistemas de Informação
 
 
 # Introdução
+O trabalho a seguir tem como foco principal, pegar um problema em comum na sociedade e tentar resolve-lo através de uma aplicação web. No dicionário, rotina significa "a sequência de procedimentos, o hábito habitual; a maneira de realizar algo, sempre da mesma maneira; isso é feito diariamente". Com isso, entende-se que os procedimentos de trabalho são uma série de atividades profissionais que realizamos diariamente. Não é apenas a sequência que compõe as atividades diárias, é a maneira como se faz. Uma rotina de trabalho bem definida evita o acúmulo de tarefas, atrasos no cumprimento de prazos e outras frustrações que podem surgir quando não há um cronograma a seguir. No entanto, procedimentos de trabalho muito rígidos podem deixar os funcionários insatisfeitos porque eles não têm flexibilidade para fazer ajustes em circunstâncias imprevistas ou quando necessário.
+Dessa forma, a organização com um cronograma, um lembrete simples ou uma anotação de fácil acesso são formas de ativar a memoria do trabalhador ou estudante para fazer uma determinada tarefa, não atrasando ou esquecendo. Esses métodos, mesmo que simples, fazem toda diferença no aspecto de produtividade, principalmente em uma empresa onde existem vários funcionários que se conectam entre si e dependem da produção do outro. Com esse problema em mente, a PRSystems quer desenvolver um método que seja simples, de fácil acesso e estimulante para que essa produtividade seja adquirida.
 
 ## Problema
 Atualmente, muitas pessoas possuem uma rotina bastante exaustiva, com muitos compromissos 
@@ -235,6 +237,37 @@ que deixa essa pessoa furiosa?
 * Coisas que não gosta: pessoas não comprometidas, mentirosas e amizade passageiras 
 e não gosta de tomate.
 
+> DADOS
+* Nome: Roni 
+* Idade: 30-37 anos 
+* Hobby: Meditação, caminhada, pesca e plantar.
+* Trabalho: Formado em Engenharia Mecânica e trabalha em uma fábrica de automóveis
+* Personalidade: sistemático, perfeccionista e delicado.
+* Sonhos: Trabalhar em uma multinacional e ter uma vida tranquila 
+* Motivações e esperanças: Crescer profissionalmente e ter uma rotina de qualidade no quesito de otimação de tempo.
+* Medos e dilemas: medo de falhar e decepcionar seus superiores
+* Estilos: cabelos cacheados curtos, loiro, alto, magro, sem músculos, usa óculos.
+
+> OBJETIVOS-CHAVE
+Quais são os objetivos chave da pessoa durante a utilização do serviço? Por que eles precisam 
+deste serviço?
+* Objetivo: Ajudar a organizar a rotina
+
+> OBJETOS E LUGARES
+Quais objetos físicos e digitais essa pessoa usa? Quando, onde e como ela os usa?
+* Objetos: Fone de ouvido, livro, bola de vôlei
+* Lugares que mais frequenta: fábrica, parques, lago, horta comunitária.
+
+> COMO DEVEMOS TRATÁ-LA
+Como devemos tratá-la para que ela se sinta bem? Quais os tipos de comportamento que deixam 
+essa pessoa feliz?
+* Como gosta de ser tratada: gosta de falar de plantas e sobre trabalho, e jogar cartas com os amigos
+
+> NUNCA DEVEMOS
+O que nunca devemos fazer em relação a essa pessoa? Que tipo de atitude ela não suporta? O 
+que deixa essa pessoa furiosa?
+* Coisas que não gosta: não gosta de atrasos e desorganização
+
 
 
 ## Histórias de Usuários
@@ -245,6 +278,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Estudante do ENEM | Uma rotina focada em estudos para faculdade | dedicar e montar um ambiente de estudos corretamente. |
 |Pessoa que vai na academia | Aprender a dividir meu treino corretamente | Fazer o "projetinho verão" mais top possível |
+|Trabalho em uma empresa grande | Uma rotina que seja prdutiva | satisfação pessoal entre trabalho e lazer |
 
 
 ## Requisitos
@@ -263,6 +297,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 
 ### Requisitos não Funcionais
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
