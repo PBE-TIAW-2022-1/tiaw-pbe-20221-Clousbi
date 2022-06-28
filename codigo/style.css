@@ -1,0 +1,225 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #F0F0F0;}
+    /*header*/
+    /*navegador*/
+    .navbar{
+    padding-left: 5%;
+    background-color: #25274D; 
+    color: #F0F0F0;}
+    .nav-link{color: #F0F0F0;}
+    .navbar-toggler-icon{color: #F0F0F0;}
+    .navbar-brand{color: #FFFF00;}
+    /*logo*/
+    .logo { max-width: 200px;}
+    /*login*/
+    .botaoEntrada {
+    color: #e4e4e4;
+    padding: 10px;
+    margin: 5px;}
+    
+    
+    
+    /*main*/
+    /*principal*/
+    .entreAgora{background-color: #fbff16;}
+    .text-p{
+    font-size: 25px;
+    text-align: justify;}
+    .img-tina{
+    max-width: 600px;}
+    .img-tina3{
+    max-width: 400px;}
+    .img-tina2{
+    max-width: 600px;
+    margin-top: -100px;
+    margin-left: -120px;}
+    .img-titulo{
+    max-width: 1200px;
+    margin-left: -350px;
+    margin-top: -200px;
+    margin-bottom: -250px;}
+    
+    
+    
+    
+    
+    /*home*/
+    .imgsvg {max-width: 40px;}
+    .box-title{
+    margin-top: 20%;
+    font-size: 30px;}
+    .right-block{ 
+    margin-bottom: 40px;
+    text-align: center;}
+    .box{ 
+    padding: 5%; 
+    margin-bottom: 5%;}
+    .imagem{
+    max-width: 100px;
+    margin-top: 10%;}
+    .search{
+    margin-bottom: 20px; 
+    background-color: #FFFF00; 
+    padding: 10px; 
+    border-radius: 6px; 
+    padding-bottom: 10%;
+    margin-top: 20%;
+    border-radius: 20px;
+    -webkit-box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
+    -moz-box-shadow:    9px 7px 5px rgba(50, 50, 50, 0.77);
+    box-shadow:         9px 7px 5px rgba(50, 50, 50, 0.77);}
+    .dicas{
+    text-align: left; 
+    margin-left: 50px;}
+    
+    /*tarefas do dia*/
+    /* Variáveis para padronizar cores */
+    :root {
+    --primary-color: #f0f0f0;
+    --secondary-color: #25274D;
+    --tertiary-color: #FFFF00;
+    --quaternary-color: #807e7e;}
+    * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+    .check {
+    display: flex;
+    width: 50vw;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto; margin-top: 4%;
+    gap: 15px;}
+    .check_title {
+    display: flex;
+    background-color: var(--secondary-color);
+    width: 100%;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    box-shadow: 1px 1px 5px var(--fade);
+    font-size: 30px;
+    color: var(--primary-color);
+    border-radius: 20px;
+    -webkit-box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
+    -moz-box-shadow:    9px 7px 5px rgba(50, 50, 50, 0.77);
+    box-shadow:         9px 7px 5px rgba(50, 50, 50, 0.77);}
+    .check_table {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    gap: 10px;}
+    .check_item{
+    display: flex;
+    width: 100%;
+    height: 60px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    box-shadow: 1px 1px 5px var(--fade);
+    font-size: medium;
+    border-radius: 20px;
+    -webkit-box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
+    -moz-box-shadow:    9px 7px 5px rgba(50, 50, 50, 0.77);
+    box-shadow:         9px 7px 5px rgba(50, 50, 50, 0.77);}
+    .check_item > div {
+    width: 80%;}
+    /* Fade ao passar cursor do mouse nos itens criados */
+    .check_item:hover {
+    cursor: pointer;
+    transition: all .3s ease;
+    background-color: var(--secondary-color);
+    color: var(--primary-color);}
+    .check_item > input[type='text'] {
+    border: none;
+    width: 80%;
+    font: inherit;}
+    .check_item > input[type='button'],
+    .check_item > input[type='checkbox'] {
+    width: 30px;
+    height: 30px;
+    font: inherit;
+    border-radius: 20px;}
+    /* Linha para reconhecer itens checados */
+    .check_item > input[type='checkbox']:checked  + div {
+    text-decoration:line-through;}
+    .check_new-item{
+    display: flex;
+    background-color: var(--tertiary-color);
+    width: 100%;
+    height: 70px;
+    justify-content: space-evenly;
+    padding: 10px 0;
+    box-shadow: 1px 1px 5px var(--fade);
+    margin: 10px;
+    font: inherit;
+    border-radius: 20px;
+    -webkit-box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
+    -moz-box-shadow:    9px 7px 5px rgba(50, 50, 50, 0.77);
+    box-shadow:         9px 7px 5px rgba(50, 50, 50, 0.77);}
+    .check_new-item > input{
+    background-color: var(--tertiary-color);
+    border: none;
+    width: 80%;
+    outline: none;
+    font: inherit;
+    font-size: medium;}
+    .check_new-item > input::placeholder {
+    font-style: italic;
+    font-weight: normal;}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    /*perfil*/
+    .right-titlee{margin-top: 3%;}
+    .imgsvg2{max-width: 20px;}
+    
+    
+    /*footer*/
+    .context-dark, .bg-gray-dark, .bg-primary {
+    color: #F0F0F0;}
+    .footer-classic a, .footer-classic a:focus, .footer-classic a:active {
+    color: #F0F0F0;}
+    .nav-list li {
+    padding-top: 5px;
+    padding-bottom: 5px;}
+    .nav-list li a:hover:before {
+    margin-left: 0;
+    opacity: 1;
+    visibility: visible;}
+    ul, ol {
+    list-style: none;
+    padding: 0;
+    margin: 10;}
+    .social-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 23px;
+    font: 900 13px/1 "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    text-transform: uppercase;
+    color:#F0F0F0;}
+    .social-container .col {
+    border: 1px solid #F0F0F0;}
+    .nav-list li a:before {
+    content: url(img/anoise-icon.png);
+    font: 400 21px/1 "Material Design Icons";
+    display: inline-block;
+    vertical-align: baseline;
+    margin-left: -28px;
+    margin-right: 7px;
+    opacity: 0;
+    visibility: hidden;
+    transition: .22s ease;}
+    
+    
+    

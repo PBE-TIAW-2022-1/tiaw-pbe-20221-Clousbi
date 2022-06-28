@@ -38,7 +38,6 @@ Sistemas de Informação
   - [Divisão de Papéis](#divisão-de-papéis)
   - [Ferramentas](#ferramentas)
   - [Controle de Versão](#controle-de-versão)
-- [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
 - [Projeto da Solução](#projeto-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
   - [Arquitetura da solução](#arquitetura-da-solução)
@@ -201,78 +200,43 @@ vida!
 * Praticidade no dia a dia
 
 > **Exemplo de Persona**
- 
-> DADOS
-* Nome: Tina 
-* Idade: 20-25 anos 
-* Hobby: Estudar nutrição, escutar música, jogar videogame, jogar vôlei. 
-* Trabalho: Estudar nutrição, nutricionista de academia 
-* Personalidade: criativa, ambiciosa, carismática
-* Sonhos: Referência na nutrição para pessoas que buscam o físico a saúde física e mental
-* Motivações e esperanças: Ela que ser um exemplo para as pessoas para que o mundo 
-seja mais proativo e organizado.
-* Medos e dilemas: não conseguir se organizar na faculdade e desapontar as pessoas que 
-não acreditam nela. 
-* Estilos: Com pouco musculo, morena, alta 1,82, olhos azuis, fone de ouvido, fita de 
-treino verde, roupas pretas.
+>DADOS
+* Nome: Tina.
+* Idade: 20-25 anos.
+* Pesonalidade: Criativa, ambiciosa e carismática.
+* Objetos: Fone de ouvido, livro e bola de vôlei.
+* Motivação: Ela quer ser um exemplo para as pessoas para que o mundo seja mais proativo e organizado.
+* Frustações: Não conseguir se organizar na faculdade e desapontar as pessoas que acreditam nela.
+* Hobbies, história: Estudar nutrição, escutar música, jogar videogame e jogar vôlei.
+> [imagem]()
 
-> OBJETIVOS-CHAVE
-Quais são os objetivos chave da pessoa durante a utilização do serviço? Por que eles precisam 
-deste serviço?
-* Objetivo: Ajudar a organizar a rotina
+>DADOS
+* Nome: Roni. 
+* Idade: 30-37 anos.
+* Ocupação: Formado em engenharia mecânica e trabalha em uma fábrica de automóveis.
+* Pesonalidade: Sistemático, perfeccionista e dedicado.
+* Objetos: Maleta, notebook e plantas.
+* Motivação: Crescer profissionalmente e ter uma rotina de qualidade no quesito de otimização de tempo.
+* Frustações: Medo de falhar e decepcionar seus superiores.
+* Hobbies, história: Meditação, caminhada, pesca e plantar.
+> [imagem]()
 
-> OBJETOS E LUGARES
-Quais objetos físicos e digitais essa pessoa usa? Quando, onde e como ela os usa?
-* Objetos: Fone de ouvido, livro, bola de vôlei
-* Lugares que mais frequenta: biblioteca, escola, quadra, academia, shows
-
-> COMO DEVEMOS TRATÁ-LA
-Como devemos tratá-la para que ela se sinta bem? Quais os tipos de comportamento que deixam 
-essa pessoa feliz?
-* Como gosta de ser tratada: conversas espontâneas e aleatórias, respeito e lealdade
-
-> NUNCA DEVEMOS
-O que nunca devemos fazer em relação a essa pessoa? Que tipo de atitude ela não suporta? O 
-que deixa essa pessoa furiosa?
-* Coisas que não gosta: pessoas não comprometidas, mentirosas e amizade passageiras 
-e não gosta de tomate.
-
-> DADOS
-* Nome: Roni 
-* Idade: 30-37 anos 
-* Hobby: Meditação, caminhada, pesca e plantar.
-* Trabalho: Formado em Engenharia Mecânica e trabalha em uma fábrica de automóveis
-* Personalidade: sistemático, perfeccionista e delicado.
-* Sonhos: Trabalhar em uma multinacional e ter uma vida tranquila 
-* Motivações e esperanças: Crescer profissionalmente e ter uma rotina de qualidade no quesito de otimação de tempo.
-* Medos e dilemas: medo de falhar e decepcionar seus superiores
-* Estilos: cabelos cacheados curtos, loiro, alto, magro, sem músculos, usa óculos.
-
-> OBJETIVOS-CHAVE
-Quais são os objetivos chave da pessoa durante a utilização do serviço? Por que eles precisam 
-deste serviço?
-* Objetivo: Ajudar a organizar a rotina
-
-> OBJETOS E LUGARES
-Quais objetos físicos e digitais essa pessoa usa? Quando, onde e como ela os usa?
-* Objetos: Fone de ouvido, livro, bola de vôlei
-* Lugares que mais frequenta: fábrica, parques, lago, horta comunitária.
-
-> COMO DEVEMOS TRATÁ-LA
-Como devemos tratá-la para que ela se sinta bem? Quais os tipos de comportamento que deixam 
-essa pessoa feliz?
-* Como gosta de ser tratada: gosta de falar de plantas e sobre trabalho, e jogar cartas com os amigos
-
-> NUNCA DEVEMOS
-O que nunca devemos fazer em relação a essa pessoa? Que tipo de atitude ela não suporta? O 
-que deixa essa pessoa furiosa?
-* Coisas que não gosta: não gosta de atrasos e desorganização
+>DADOS
+* Nome: Rory
+* Idade: 25-30 anos
+* Ocupação: Recém formada em Artes visuais e trabalha em uma galeria.
+* Pesonalidade: Brincalhona, criativa e perfeccionista.
+* Objetos: Quadro, tinta, tarô e cristais.
+* Motivação: Mostrar suas artes para expressar seu sentimento para o mundo.
+* Frustações: Medo de insetos e do escuro.
+* Hobbies, história: Leitura de tarô, pintura, escultura, escutar música, ir em museus e galerias.
+> [imagem]()
 
 
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
@@ -283,9 +247,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
 
 ### Requisitos Funcionais
+A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
+
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
@@ -299,6 +265,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ### Requisitos não Funcionais
 A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 
+
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| Segurança de dados   | ALTA | 
@@ -307,8 +274,8 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 
 
 ## Restrições
+As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
@@ -318,63 +285,81 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-Como nosso projeto requer que desenvolva um site WEB, desenvolvemos primeiro um fluxo de usuário simples para termos uma ideia principal de como vamos colocar no plano do site. Após esse processo, tivemos a decisão de desenvolver por meio mobile e depois em site desktop. Por ser algo que o usuário vai demandar mais na prática, o uso mobile é um meio mais usual do nosso projeto ser utilizado.
+Dentre as preocupações para a montagem da interface do sistema, estamos estabelecendo foco em questões como agilidade, acessibilidade e usabilidade. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis.
 
 ## User Flow
 
-> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/56a0fc5559097bc2e3c7a8a698bf66d7472c7ab8/docs/relatorio/fluxo%20de%20usuario.png
+O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o Wireframe interativo, acesse o [AMBIENTE INTERATIVO](https://www.figma.com/proto/owfF2t9p0Sc4RZsWc4TUpz/Untitled?node-id=16%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=16%3A2&show-proto-sidebar=1).
+> [imagem]()
 
 ## Wireframes
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura X. Nesta estrutura, existem 3 grandes blocos, descritos a seguir. São eles:
+* Cabeçalho - local onde são dispostos elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação);
+* Conteúdo - apresenta o conteúdo da tela em questão;
+* Barra lateral - apresenta os elementos de navegação secundária, geralmente associados aos elementos do bloco de conteúdo.
+
 
 * Figura 1 - Página principal
-> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/79e8b5550102b15f8b352d69069ade1be62e148d/docs/relatorio/1.png
+> [imagem]()
 * Figura 2 - Registro do usuário
-> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/2.png
+> [imagem]()
 * Figura 3 - Confirmação do email
-> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/3.png
+> [imagem]()
 * Figura 4 - Login
-> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/4.png
+> [imagem]()
 * Figura 5 - Home
-> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/5.png
+> [imagem]()
 * Figura 6 - Informações do usuário
-> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/6.png
+> [imagem]()
 * Figura 7 - Aba exercícios
-> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/7.png
+> [imagem]()
 * Figura 8 - Dia-a-dia rotina
-> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/8.png
+> [imagem]()
 * Figura 9 - Aba estudos
-> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/9.png
+> [imagem]()
 * Figura 10 - Aba agenda
-> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/10.png
+> [imagem]()
 * Figura 11 - LoginWEB
-> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio11.png
+> [imagem]()
 * Figura 12 - HomeWEB
-> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/12.png
+> [imagem]()
 * Figura 13 - Aba de estudosWEB
-> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/13.png
+> [imagem]()
 * Figura 14 - Aba de exercíciosWEB
-> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/14.png
+> [imagem]()
 * Figura 15 - AgendaWEB
-> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/15.png
+> [imagem]()
 * Figura 16 - InformaçõesWEB.
-> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/6d1a57f25b0cd76f093cdc421e879a76b789df5b/docs/relatorio/16.png
+> [imagem]()
 
 # Metodologia
 
-Nossa metodologia foi baseada no método Kanban, onde os nomes foram separados por cores e divididos as tarefas em fluxos de "Fazer", "Fazendo", "Revisão" e "Feito", informados com a semana e o dia feitos.
+A metodologia contempla as definições de ferramental utilizado pela equipe tanto para a manutenção dos códigos e demais artefatos quanto para a organização do time na execução das tarefas do projeto.
 
-Segue abaixo os anexos:
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Kanban estruturado com as seguintes listas: 
+>
+*	Para fazer: Tudo aquilo que precisa ser executado para o projeto ser concluído;
 
-> https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/87aa82059b51be0972b44e2db4028b096d602aa1/docs/relatorio/METODOLOGIA.pptx
+*	Planejar: Área onde se separa como irá ser feito cada tarefa, quem vai fazer, que dia, como. A maioria dos planejamentos são feitos por reuniões semanais via Discord;
+
+*	Executar: Depois que cada um tem sua tarefa designada, é separado em “fazendo” e “feito” e a pessoa responsável por aquela tarefa.
+
+*	Revisão: Com a tarefa feita, o responsável dela revisa para garantir que não tenha erros ou caso outro integrante queira acrescentar algo, é feito tudo na revisão;
+
+*	Completo: Após a revisão, é concluído as tarefas designadas, e com essa área expondo os que já foram feitos, serve como lembrete de tudo que já foi feito e revisado.
+
+> [imagem]()
+
 
 ## Divisão de Papéis
 
-* Bianca Marques Teixeira: Metodologia, Projeto de Interface, Editar no Git, Contexto do projeto, Persona, Templates.
-* Caio Machado Taussig: Criação da Logo, Contexto do projeto, Persona, Templates.
-* Carlos Alberto Diniz Junior: Especificação, Persona, Templates.
-* Diogo Henrique Afonso Silva: Projeto de Interface, Slides, Persona, Templates.
-* Robert William Batista dos Santos Silva : Projeto de Interface, Persona, Templates.
-* Vinicius Resende do Carmo: Projeto de Interface, Persona, Templates.
+*	Bianca M. Teixeira (Designer)
+*	Caio M. Taussig (Desenvolvedor front-end)
+*	Carlos A. Diniz Junior (Desenvolvedor front-end)
+*	Diogo H. Afonso (Desenvolvedor front-end)
+*	Robert W. Batista de Souza (Desenvolvedor front-end)
+*	Vinicius R. Cardoso (Desenvolvedor front-end)
+
 
 ## Ferramentas
 
@@ -388,22 +373,21 @@ Segue abaixo os anexos:
 
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github](https://github.com/Clousbi/ProjetoRotina) foi utilizado para hospedagem do repositório `ProjetoRotina`.
+A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github](https://github.com/Clousbi/ProjetoRotina) foi utilizado para hospedagem do repositório `ProjetoRotina`. Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Feature Branch Workflow, mostrado na Figura a seguir.
 
-> O projeto segue a seguinte convenção para o nome de branchs:
+> **Exemplo - GitHub Feature Branch Workflow**:
+> [imagem]()
 
-* `main`: versão estável já testada do software
-* `template`: templates criados 
-* `interface`: interfaces do projeto
-* `especificacao`: pesquisas específicas do projeto
-* `contexto`: desenvolvimento do projeto
+*	`Laranja` - .html
+*	`Azul` - .css
+*	`Amarelo` - .js
+
+O fluxo está dividido por ‘commits’, onde cada faixa linear representa uma modificação feita em um determinado dia.
+> [imagem]()
+As setas representando a integração dos códigos com outros. Por exemplo, um commit de **js** relacionado ao commit de **html**.
 
 > Quanto à gerência de issues, o projeto ainda não adotou esses métodos.
 
-
-> **Exemplo - GitHub Feature Branch Workflow**:
-
-https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/56a0fc5559097bc2e3c7a8a698bf66d7472c7ab8/docs/relatorio/git.png
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
@@ -439,6 +423,27 @@ https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/56a0fc5559097bc2e
 > **Exemplo do diagrama de Arquitetura**:
 > 
 > ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+
+# Template do Site
+O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface elaborado anteriormente, conforme Figura a seguir. Na parte azul, corresponde a área do “<nav>” junto com a logo. Na parte amarela é o “<main>” onde a maioria dos templates são divididas em duas colunas. Por último, na parte laranja fica o “<footer>”, com as informações da empresa e o contato.
+> [imagem]()
+
+O template criado está disponível no site http://github.com/…..  e é composto pelos seguintes principais layouts: 
+* Home;
+* Modal de login;
+* Tela de estudos.
+
+A responsividade segue o padrão do Bootstrap 4.1.1.
+
+* Home 
+> [imagem]()
+* Login
+> [imagem]()
+* Tela de Estudos
+> [imagem]()
+
+
+
 
 
 # Avaliação da Aplicação
@@ -485,11 +490,16 @@ https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/56a0fc5559097bc2e
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+HISTÓRIAS de usuários com exemplos e um template, Atlassian. Disponível em: <https://www.atlassian.com/br/agile/project-management/user-stories> Acesso: 22, março de 2022.
+O que são Requisitos Funcionais e Requisitos Não Funcionais? Codificar. Disponível em: <
+https://codificar.com.br/requisitos-funcionais-nao-funcionais/ > Acesso: 22, março de 2022.
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+RESTRIÇÕES do projeto: entenda de vez o que é esse conceito, Robson Camargo. Disponível em: <https://robsoncamargo.com.br/blog/Restricoes-do-projeto> Acesso: 22, março de 2022.
+
+HISTÓRIAS de usuários com exemplos e um template, Atlassian. Disponível em: <https://www.atlassian.com/br/agile/project-management/user-stories> Acesso: 22 mar.2022.
+
+MARTINS, Pablo Luiz; MACHADO, Polyana Carvalho; FERREIRA, Hugo Lucindo. A atuação do gestor de pessoas no contexto das rotinas trabalhistas. Saberes Interdisciplinares, [S.l.], v. 8, n. 15, p. 27-37, nov. 2017. ISSN 2675-2255. Disponível em: <http://periodicos.uniptan.edu.br:8090/revistas/index.php/SaberesInterdisciplinares/article/view/26>. Acesso em: 7 abr. 2022.
+
+STEDILE, Cristiano da Silva de Mello1; ALVES, Juliano Nunes2. MANUAL DE PRÁTICAS COMO NORTEADOR DE ROTINAS, 2013. Disponível em: <https://home.unicruz.edu.br/seminario/anais/anais-2013/XVIII%20SEMIN%C3%81RIO%20INTERINSTITUCIONAL%202013%20-%20ANAIS/CCSA/ADMINISTRACAO/C.ORAL/MANUAL%20DE%20PR%C3%81TICAS%20COMO%20NORTEADOR%20DE%20ROTINAS.pdf> Acesso em: 7 abr.2022.
+
+
