@@ -9,18 +9,18 @@ addBtn.addEventListener("click", function(e) {
         return alert("Escreva uma anotação no Bloco primeiro.")
     }
 
-  let notes1 = localStorage.getItem("notes1");
-  if (notes1 == null) {
+  let notes2 = localStorage.getItem("notes2");
+  if (notes2 == null) {
     notesObj = [];
   } else {
-    notesObj = JSON.parse(notes1);
+    notesObj = JSON.parse(notes2);
   }
   let myObj = {
     title: addTitle.value,
     text: addTxt.value
   }
   notesObj.push(myObj);
-  localStorage.setItem("notes1", JSON.stringify(notesObj));
+  localStorage.setItem("notes2", JSON.stringify(notesObj));
   addTxt.value = "";
   addTitle.value = "";
 //   console.log(notesObj);
@@ -29,11 +29,11 @@ addBtn.addEventListener("click", function(e) {
 
 // Function para mostrar no localStorage
 function showNotes() {
-  let notes1 = localStorage.getItem("notes1");
-  if (notes1 == null) {
+  let notes2 = localStorage.getItem("notes2");
+  if (notes2 == null) {
     notesObj = [];
   } else {
-    notesObj = JSON.parse(notes1);
+    notesObj = JSON.parse(notes2);
   }
   let html = "";
   notesObj.forEach(function(element, index) {
@@ -47,7 +47,7 @@ function showNotes() {
         </div>
             `;
   });
-  let notesElm = document.getElementById("notes1");
+  let notesElm = document.getElementById("notes2");
   if (notesObj.length != 0) {
     notesElm.innerHTML = html;
   } else {
@@ -60,15 +60,15 @@ function deleteNote(index) {
 //   console.log("Eu estou deletando", index);
     let confirmDel = confirm("Deletar essa nota?");
     if (confirmDel == true) {
-        let notes1 = localStorage.getItem("notes1");
-        if (notes1 == null) {
+        let notes2 = localStorage.getItem("notes2");
+        if (notes2 == null) {
             notesObj = [];
         } else {
-            notesObj = JSON.parse(notes1);
+            notesObj = JSON.parse(notes2);
         }
 
         notesObj.splice(index, 1);
-        localStorage.setItem("notes1", JSON.stringify(notesObj));
+        localStorage.setItem("notes2", JSON.stringify(notesObj));
         showNotes();
     }
   
@@ -76,18 +76,18 @@ function deleteNote(index) {
 
 // Function pra editar a nota
 function editNote(index) {
-    let notes1 = localStorage.getItem("notes1");
+    let notes2 = localStorage.getItem("notes2");
     let addTitle = document.getElementById("note-title");
     let addTxt = document.getElementById("note-text");
 
     if (addTitle.value !== "" || addTxt.value !== "") {
-      return alert("Please clear the form before editing a note")
+      return alert("Limpe antes de editar")
     } 
 
-    if (notes1 == null) {
+    if (notes2 == null) {
       notesObj = [];
     } else {
-      notesObj = JSON.parse(notes1);
+      notesObj = JSON.parse(notes2);
     }
     console.log(notesObj);
 
@@ -96,7 +96,7 @@ function editNote(index) {
       addTxt.value = element.text;
     })
     notesObj.splice(index, 1);
-        localStorage.setItem("notes1", JSON.stringify(notesObj));
+        localStorage.setItem("notes", JSON.stringify(notesObj));
         showNotes();
 }
 

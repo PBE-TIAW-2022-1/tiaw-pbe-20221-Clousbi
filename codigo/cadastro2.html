@@ -1,0 +1,106 @@
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        *{box-sizing: border-box;}
+        html,body{
+            margin: auto;
+            padding: 0%;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+        }
+        body{
+            background-color:#25274D;
+        }
+        .container{
+  margin: 10px 50px;
+        }
+        .form-grupo{
+        margin: 10px;
+        }
+        input{
+        width: 100%;
+        border: solid 1px #eee;
+        padding: 15px 10px;
+        margin: auto;
+        }
+        .button{
+        width: 200px;
+        padding: 15px;
+        margin-left: 250px;
+        background: #fff;
+        color: #ff9b00;
+        border: solid 1px #ff9b00;
+        border-radius: 20px;
+        cursor: pointer;
+        transition: all .38s ease-in-out;
+        }
+        button:hover{
+        background: #ff9b00;
+        color: #fff;
+
+        }
+        h2{
+        color: black;
+        font-size: 35px;
+        background-color: #FFFF00;
+        text-align: center;
+        border-style: groove;
+        border-color: #25274D;
+        margin: auto;
+        }
+        .all{
+        padding: 10px;
+        margin: auto;
+        margin-left: 0%;
+        margin-right: 0%;
+        }
+    </style>
+    <title>Cadastro de Informação </title>
+</head>
+<div class="all">
+<body>
+    <div class="container">
+        <h2>Informações de Estudos</h2>
+        <form role="form" onsubmit="Salvar(event)">
+            <div class="form-grupo">
+                <input type="text" name="materia" id="materia" placeholder="Matéria" required="">
+            </div>
+            <div class="form-grupo">
+                <input type="text" name="ramo" id="ramo" placeholder="Ramo" required="">
+            </div>
+            <div class="form-grupo">
+                <input type="text" name="exercicios" id="exercicios" placeholder="Estimativa de Exercícios" required="">
+            </div>
+            <div class="form-grupo">
+               <button type="submit"><a href="index.html">Salvar</a></button>
+            </div>
+
+        </form>  
+           
+<script type="text/javascript">
+const Salvar = e =>{
+    let formData = JSON.parse(localStorage.getItem('formData')) ||  [];
+    let exist = formData.lenght && 
+    JSON.parse(localStorage.getItem('formData')).some(data => data.materia.toLowerCase()== document.getElementById('materia').value.toLowerCase() && data.ramo.toLowerCase()== document.getElementById('ramo').value.toLowerCase())
+    if(!exist){
+    formData.push ({
+        materia: document.getElementById('materia').value,
+        ramo: document.getElementById('ramo').value,
+        exercicios: document.getElementById('exercicios').value
+    });
+    localStorage.setItem('formData', JSON.stringify(formData));
+    dispData();
+    document.querySelector('form').reset();
+    document.getElementById('materia').focus();
+}   else{
+    alert("Opa! Usuário já existente...");
+}
+    e.preventDefault();
+}
+
+</script>
+
+
+</body></div></html>

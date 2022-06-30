@@ -7,10 +7,51 @@
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-
 Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-<link rel="stylesheet" href="style2.css">
+
 <style>
     body{
-background-color: #25274d;}
+    background-color: #25274d;}
+    .contact{
+    padding: 4%;
+    height: 400px;}
+    .col-md-3{
+    background: #ff9b00;
+    padding: 4%;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;}
+    .contact-info{
+    margin-top:10%;}
+    .contact-info img{
+    margin-bottom: 15%;}
+    .contact-info h2{
+    margin-bottom: 10%;}
+    .col-md-9{
+    background: #fff;
+    padding: 3%;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;}
+    .contact-form label{
+    font-weight:600;}
+    .contact-form button{
+    background: #9a9baf;
+    color: #fff;
+    font-weight: 600;
+    width: 25%;}
+    .contact-form button:focus{
+    box-shadow:none;}
+    div dataNasc {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;}
+    label {
+    display: inline-block;
+    width: 300px;}
+    input:invalid+span:after {
+    content: '✖';
+    padding-left: 5px;}
+    input:valid+span:after {
+content: '✓';
+padding-left: 5px;}
 </style>
 <link rel="shortcut icon" href="img/PRSystems-_1_.ico" type="image/x-icon">
 
@@ -118,7 +159,7 @@ document.getElementById("current_date").innerHTML = day + "/" + month + "/" + ye
             // Valida login e se estiver ok, redireciona para tela inicial da aplicação
             resultadoLogin = loginUser (username, password);
             if (resultadoLogin) {
-                window.location.href = 'index.html';
+                window.location.href = 'cadastro.html';
             }
             else { // Se login falhou, avisa ao usuário
                 alert ('Usuário ou senha incorretos');

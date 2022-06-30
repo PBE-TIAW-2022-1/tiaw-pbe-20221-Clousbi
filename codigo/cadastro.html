@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <style>
+        .btn{
+            padding: 10px;
+            background: #25274D;
+            display: inline-block;
+            color: white;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        .btn:hover{
+            background-color: aliceblue;
+            color: black;
+        }
+        .modal{
+            width: 500px;
+            height: 500px;
+            background-color: #25274D;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            display: none;
+            animation: animate;
+            animation-duration: 800ms;
+            border-radius: 20px;
+            border-style: groove;
+            border-color:#FFFF00;
+            -webkit-box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
+            -moz-box-shadow:    9px 7px 5px rgba(50, 50, 50, 0.77);
+            box-shadow:         9px 7px 5px rgba(50, 50, 50, 0.77);
+        }      
+        @keyframes animate{
+            from{opacity: 1;}
+            from{opacity: 0;}
+        }
+        .fechar{
+            width: 25px;
+            height: 23px;
+            background-color: #FF9B00;
+            border-radius: 50%;
+            float: right;
+            cursor: pointer;
+            text-align: center;
+            font-size: large;
+            font-style: initial;
+            color: white;
+            border-style: dotted;
+            transition: 0.4s;
+        }
+        .fechar:hover{
+            background-color: #FFFF00;
+            color: #FF9B00;
+        
+        }
+        h3{
+            text-align: center;
+            font-size: 30px;
+            color: white;
+        
+        }
+        h4{
+            text-align: center;
+            font-size: 30px;
+            color: white
+        }
+        .btn2{
+            padding: 20px 90px;
+            width:auto;
+            color: #fff;
+            background-color: #FFFF00;
+            border:  1px solid #555;
+            border-radius: 10px;
+            cursor: pointer;
+            text-align: center;
+            user-select: none;
+            transition: 1s;   
+            margin-left: 110px;
+            color: black; 
+        
+        }
+        .btn2:hover{
+            background-color: #FF9B00;
+        }      
+        *{
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alerta</title>
+</head>
+<body>
+    <div onclick="acao()" class="btn">Clique Aqui</div>
+
+    <div class="modal">
+        <div onclick="fechar()" class="fechar"><a href="index.html">X</a></div>
+        
+        <h4>GOSTARIA DE RECEBER DICAS DE ESTUDOS DENTRO DA ROTINEIRA?</h4>
+       
+        <h3>É SÓ PREENCHER UM FORMULÁRIO BEM PEQUENO CLICANDO AQUI EMBAIXO!</h3>
+        
+
+        <button class="btn2"><a href="cadastro2.html">Clique aqui</a> </button>
+    
+    </div>
+    <script src="script11.js"></script>
+</body>
+</html>
