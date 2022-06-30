@@ -208,7 +208,7 @@ vida!
 * Motivação: Ela quer ser um exemplo para as pessoas para que o mundo seja mais proativo e organizado.
 * Frustações: Não conseguir se organizar na faculdade e desapontar as pessoas que acreditam nela.
 * Hobbies, história: Estudar nutrição, escutar música, jogar videogame e jogar vôlei.
-> [imagem]()
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/PERSONA%201.png)
 
 >DADOS
 * Nome: Roni. 
@@ -219,7 +219,7 @@ vida!
 * Motivação: Crescer profissionalmente e ter uma rotina de qualidade no quesito de otimização de tempo.
 * Frustações: Medo de falhar e decepcionar seus superiores.
 * Hobbies, história: Meditação, caminhada, pesca e plantar.
-> [imagem]()
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/PERSONA%202.png)
 
 >DADOS
 * Nome: Rory
@@ -230,7 +230,7 @@ vida!
 * Motivação: Mostrar suas artes para expressar seu sentimento para o mundo.
 * Frustações: Medo de insetos e do escuro.
 * Hobbies, história: Leitura de tarô, pintura, escultura, escutar música, ir em museus e galerias.
-> [imagem]()
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/PERSONA%203.png)
 
 
 
@@ -290,7 +290,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 ## User Flow
 
 O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o Wireframe interativo, acesse o [AMBIENTE INTERATIVO](https://www.figma.com/proto/owfF2t9p0Sc4RZsWc4TUpz/Untitled?node-id=16%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=16%3A2&show-proto-sidebar=1).
-> [imagem]()
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/FLUXO%20DO%20USUARIO.png)
 
 ## Wireframes
 Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura X. Nesta estrutura, existem 3 grandes blocos, descritos a seguir. São eles:
@@ -348,7 +348,7 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 
 *	Completo: Após a revisão, é concluído as tarefas designadas, e com essa área expondo os que já foram feitos, serve como lembrete de tudo que já foi feito e revisado.
 
-> [imagem]()
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/KANBAN.png)
 
 
 ## Divisão de Papéis
@@ -376,7 +376,7 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github](https://github.com/Clousbi/ProjetoRotina) foi utilizado para hospedagem do repositório `ProjetoRotina`. Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Feature Branch Workflow, mostrado na Figura a seguir.
 
 > **Exemplo - GitHub Feature Branch Workflow**:
-> [imagem]()
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/FLUXO%20DO%20CODIGO.png)
 
 *	`Laranja` - .html
 *	`Azul` - .css
