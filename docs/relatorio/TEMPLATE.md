@@ -349,7 +349,7 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | GitHub | https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/DESIGNTHINKING.md | 
 |Repositório de código | GitHub | https://github.com/Clousbi/ProjetoRotina | 
-|Hospedagem do site | Netlify | https://lively-hummingbird-dc8540.netlify.app/ | 
+|Hospedagem do site | Cloudflare   | https://rotineira.ga | 
 |Protótipo Interativo 1 | Figma | https://www.figma.com/proto/owfF2t9p0Sc4RZsWc4TUpz/Untitled?node-id=16%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=16%3A2&show-proto-sidebar=1 | 
 |Protótipo Interativo 2 | Figma | https://www.figma.com/proto/YAgKSDlkGNv2LQq4LYepvH/Prototyping-in-Figma?node-id=0%3A78&scaling=scale-down&page-id=0%3A1&starting-point-node-id=0%3A2 | 
 
@@ -398,7 +398,7 @@ A solução implementada conta com os seguintes módulos:
 ## Hospedagem
 O site utiliza a plataforma do Netlify como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL: 
 
-[Site](https://lively-hummingbird-dc8540.netlify.app/)
+[Site](https://rotineira.ga)
 
 A publicação do site no Netlify é feita por meio de uma submissão do projeto (push) via Git para o repositório remoto que se encontra no endereço: 
 
