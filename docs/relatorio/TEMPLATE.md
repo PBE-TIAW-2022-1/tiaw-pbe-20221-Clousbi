@@ -299,38 +299,20 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 * Barra lateral - apresenta os elementos de navegação secundária, geralmente associados aos elementos do bloco de conteúdo.
 
 
-* Figura 1 - Página principal
-> [imagem]()
-* Figura 2 - Registro do usuário
-> [imagem]()
-* Figura 3 - Confirmação do email
-> [imagem]()
-* Figura 4 - Login
-> [imagem]()
-* Figura 5 - Home
-> [imagem]()
-* Figura 6 - Informações do usuário
-> [imagem]()
-* Figura 7 - Aba exercícios
-> [imagem]()
-* Figura 8 - Dia-a-dia rotina
-> [imagem]()
-* Figura 9 - Aba estudos
-> [imagem]()
-* Figura 10 - Aba agenda
-> [imagem]()
-* Figura 11 - LoginWEB
-> [imagem]()
-* Figura 12 - HomeWEB
-> [imagem]()
-* Figura 13 - Aba de estudosWEB
-> [imagem]()
-* Figura 14 - Aba de exercíciosWEB
-> [imagem]()
-* Figura 15 - AgendaWEB
-> [imagem]()
-* Figura 16 - InformaçõesWEB.
-> [imagem]()
+
+* Figura 1 - Login
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/LOGIN.png)
+* Figura 2 - Home
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/HOME.png)
+* Figura 3 - Informações do usuário
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/PESSOAL.png)
+* Figura 4 - Aba exercícios
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/EXERCICIOS.png)
+* Figura 5 - Aba estudos
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/ESTUDOS.png)
+* Figura 6 - Aba agenda
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/AGENDA.png)
+
 
 # Metodologia
 
@@ -394,31 +376,35 @@ As setas representando a integração dos códigos com outros. Por exemplo, um c
 
 ## Tecnologias Utilizadas
 
-
-
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+* Linguagens utilizadas: HTML, JavaScript, CSS;
+* Aplicativos: Discord, Word, Canvas, Notion;
+* FrameWorks: Bootstrap e JQuery;
+* Biblioteca: JQuery;
+* IDEs de desenvolvimento: Visual Studio Code;
+* Ferramentas: Kanban.
 
 ## Arquitetura da solução
 
 Os componentes que fazem parte da solução são apresentados na Figura que se segue
+> ![Exemplo de Arquitetura](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/DIAGRAMA.png)
+A solução implementada conta com os seguintes módulos: 
+* Navegador - Interface básica do sistema 
+* Páginas Web - Conjunto de arquivos HTML, CSS, JSON e imagens que implementam as funcionalidades do sistema. 
+* Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
+* Conta - Usuário logado ao sistema. 
+* Funcionalidades – Lembretes, coisas relacionadas apenas ao usuário, anotações, etc.
+* Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador.
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+## Hospedagem
+O site utiliza a plataforma do Netlify como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL: 
+
+[Site](https://lively-hummingbird-dc8540.netlify.app/)
+
+A publicação do site no Netlify é feita por meio de uma submissão do projeto (push) via Git para o repositório remoto que se encontra no endereço: 
+
+[GitHub](https://github.com/Clousbi/templatepadrao)
+
+
 
 # Template do Site
 O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface elaborado anteriormente, conforme Figura a seguir. Na parte azul, corresponde a área do “<nav>” junto com a logo. Na parte amarela é o “<main>” onde a maioria dos templates são divididas em duas colunas. Por último, na parte laranja fica o “<footer>”, com as informações da empresa e o contato.
@@ -451,38 +437,75 @@ A responsividade segue o padrão do Bootstrap 4.1.1.
 > sendo satisfeitos.
 
 ## Plano de Testes
+### Software
+### Usabilidade
+O planejamento dos testes de usabilidade a serem realizados com usuários são descritos na Tabela a seguir.
 
-......  COLOQUE AQUI O SEU TEXTO ......
+>Identificação de objetivos do teste de usabilidade
+>Detalhes do público envolvido nos testes
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+* Idade:
 
-## Ferramentas de Testes (Opcional)
+ Nós pensamos em atingir pessoas de 15 a 45 anos, pois estas estão mais economicamente ativas que as outras de acordo com a PEA(IBGE). Isso consequentemente faz com que elas estejam em um trabalho ou ocupação, sendo necessário uma rotina bem organizada para que se deem bem com o dia a dia sem estresse.
 
-......  COLOQUE AQUI O SEU TEXTO ......
+* Sexo:
 
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+ Sobre o sexo nosso foco é atender os dois polos: Masculino e Feminino.
+
+* Formação educacional:
+
+ Não é obrigatória uma formação educacional, porque com o nosso projeto de interface simples, qualquer pessoa que precise de uma rotina bem organizada além de outros benefícios, poderá usufruir da aplicação Rotineira sem dificuldades.
+
+* Localização:
+
+ De acordo com uma reportagem do VivaBem UOL as pessoas da grande cidade sofrem muito estresse por causa do trânsito lento e poluição do ar, portanto, é de se esperar que o nosso foco de ajuda é para essas pessoas, para tentar amenizar um possível estresse e falta de organização. Contudo, pessoas de zona rural também podem usufruir da Rotineira, pois ela foi feita para que todos consigam utilizar da melhor maneira possível de forma 100% gratuita.
+
+>Roteiro detalhado das tarefas que foram desempenhadas pelos usuários
+
+Primeiramente o usuário deve entrar na página principal onde ele poderá escolher duas opções: "Login" onde ele deve entrar no home da rotineira e "Registrar-se" onde ele deve fazer o seu cadastro de usuário caso ele não tenha o login. Além de aparecer um pouco sobre o nosso grupo PRSystems e sobre a aplicação "Rotineira"
+
+Segundamente se o usuário clicar em "Login" ou "Registrar-se" abrirá a página "Realize seu login", onde o usuário pode colocar o seu nome e sua senha para usufruir dos benefícios da Rotineira, caso o usuário não tenha uma conta, ele apertará o botão "Novo Usuário" para realizar o seu cadastro. Nessa etapa ele irá informar o seu nome de Usuário, o seu nome completo, e-mail e a sua senha seguida da confirmação da senha. Ao fazer o cadastro, o usuário irá preencher os campos de usuário e senha e clicar em "entrar".
+
+Ao fazer o login, aparecerá uma janela modal perguntando se o usuário quer receber dicas de estudos, se sim ele apertará em "Clique Aqui" irá preencher o formulário sobre matérias e clicar em "Salvar". Logo após isso, ele será transportado até a página "Home" onde aparecerá de cara a nossa Navbar e as "Tarefas do Dia". Lá ele poderá adicionar as suas tarefas escrevendo-as no campo amarelo e apertando "Enter" no teclado de seu computador, assim, aparecerá a sua tarefa, com um campo em forma de quadrado para o usuário clicar e aparecer um "certo" de forma figurativa, indicando que aquela tarefa já foi realizada. Na direita da tela, estará presente a foto que a pessoa quiser colocar, o seu nome e logo abaixo uma seta para a direita, ao clicar nela, o usuário será redirecionado a sua página pessoal onde será apresentado alguns dados da pessoa, a sua rotina a direita e uma opção de "Logout" caso usuário queira sair de sua conta.
+
+Do lado da logo, no canto superior esquerdo, terá 4 botões: "Home" para voltar a página principal, "Estudos" para ir a aba sobre estudos, "Exercícios" para ir à aba de exercícios físicos e a "Agenda" para ver as suas informações no bloco de notas e calendário.
+
+Ao clicar em "Estudos" o usuário será redirecionado até a página de estudos, onde terá um cronômetro para contar o tempo feito de seus afazeres relacionados aos seus estudos, terá também as suas matérias e o método pomodoro, utilizado bastante em pessoas que tem TDH (Déficit de atenção) clique aqui: https://www.napratica.org.br/pomodoro/ para saber mais sobre o método.
+
+Ao clicar em "Exercícios" será redirecionado para a página de exercícios físicos, essa página servirá para o usuário adicionar os seus exercícios físicos de diversas modalidades como yoga, musculação e natação.
+
+Ao clicar em "Agenda" aparecerá o bloco de notas onde a pessoa pode colocar os seus afazeres de maneira mais detalhada e um calendário abaixo onde ela poderá fixar uma data importante para ela.
+
+E em um último ato ao clicar na logo da Rotineira ou em home ela volta para a página principal onde terão as tarefas do dia e mais.
+
+
+
+
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+### Usabilidade
+Estando na página principal, será visto um resumo das vantagens de usar nossa aplicação e um pequeno texto sobre quem somos, os criadores do conteúdo.
+Além disto duas opções de botões um para novos usuários no botão registre-se, e um botão para já usuários com inscrição Login. 
 
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
-
+> [imagem]()
+Caso seja um novo usuário e clique em registre-se, será aberto a página abaixo para o usuário inserir seus dados e criar seu login. 
+> [imagem]()
+Após o registro ou login, será redirecionado para página principal (Home), sendo demostrado as informações do usuário que fez o login e suas atividades adicionadas pelo próprio.
+> [imagem]()
+No menu acima com as opções para navegar dentro do site.
+> [imagem]()
+Selecionando a próxima página descrita como “Estudos” será redirecionado para página a seguir.
+> [imagem]()
+Nesta guia de estudos serão encontrados diversos elementos para auxílio das atividades do usuário. Como por exemplo o cronometro (Para mensurar tempo das atividades), pomodoro (Técnica usada para realizar atividades e se manter mais focado, fazendo tal atividade por um ciclo e descansando por um outro ciclo), e um bloco de notas para anotações pertinentes a cada assunto descrito pelo usuário. 
+> [imagem]()
+Navegando para próxima aba descrita como “exercícios”, o usuário é redirecionado para uma aba onde se encontra caso queira, os exercícios físicos para pratica pelo usuário. 
+> [imagem]()
+Navegando para próxima e última aba descrita como “Agenda” se encontra o bloco de notas com anotações criadas pelo usuário. 
+> [imagem]()
+Nesta mesma aba se encontra o calendário, para consulta da data e adição de eventos nas datas pertinentes. 
+> [imagem]()
+Encontrando ao rodapé de todas as páginas, encontra-se as informações de contato pertinentes aos criadores. 
 
 # Referências
 
