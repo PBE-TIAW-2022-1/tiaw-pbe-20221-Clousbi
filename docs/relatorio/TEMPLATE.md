@@ -208,7 +208,7 @@ vida!
 * Motivação: Ela quer ser um exemplo para as pessoas para que o mundo seja mais proativo e organizado.
 * Frustações: Não conseguir se organizar na faculdade e desapontar as pessoas que acreditam nela.
 * Hobbies, história: Estudar nutrição, escutar música, jogar videogame e jogar vôlei.
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/PERSONA%201.png)
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/PERSONA%201.png)
 
 >DADOS
 * Nome: Roni. 
@@ -219,7 +219,7 @@ vida!
 * Motivação: Crescer profissionalmente e ter uma rotina de qualidade no quesito de otimização de tempo.
 * Frustações: Medo de falhar e decepcionar seus superiores.
 * Hobbies, história: Meditação, caminhada, pesca e plantar.
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/PERSONA%202.png)
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/PERSONA%202.png)
 
 >DADOS
 * Nome: Rory
@@ -230,7 +230,7 @@ vida!
 * Motivação: Mostrar suas artes para expressar seu sentimento para o mundo.
 * Frustações: Medo de insetos e do escuro.
 * Hobbies, história: Leitura de tarô, pintura, escultura, escutar música, ir em museus e galerias.
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/PERSONA%203.png)
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/PERSONA%203.png)
 
 
 
@@ -290,7 +290,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 ## User Flow
 
 O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o Wireframe interativo, acesse o [AMBIENTE INTERATIVO](https://www.figma.com/proto/owfF2t9p0Sc4RZsWc4TUpz/Untitled?node-id=16%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=16%3A2&show-proto-sidebar=1).
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/FLUXO%20DO%20USUARIO.png)
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/FLUXO%20DO%20USUARIO.png)
 
 ## Wireframes
 Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura X. Nesta estrutura, existem 3 grandes blocos, descritos a seguir. São eles:
@@ -301,17 +301,17 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 
 
 * Figura 1 - Login
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/LOGIN.png)
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/LOGIN.png)
 * Figura 2 - Home
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/HOME.png)
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/HOME.png)
 * Figura 3 - Informações do usuário
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/PESSOAL.png)
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/PESSOAL.png)
 * Figura 4 - Aba exercícios
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/EXERCICIOS.png)
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/EXERCICIOS.png)
 * Figura 5 - Aba estudos
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/ESTUDOS.png)
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/ESTUDOS.png)
 * Figura 6 - Aba agenda
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/AGENDA.png)
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/AGENDA.png)
 
 
 # Metodologia
@@ -330,7 +330,7 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 
 *	Completo: Após a revisão, é concluído as tarefas designadas, e com essa área expondo os que já foram feitos, serve como lembrete de tudo que já foi feito e revisado.
 
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/KANBAN.png)
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/KANBAN.png)
 
 
 ## Divisão de Papéis
@@ -358,14 +358,14 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github](https://github.com/Clousbi/ProjetoRotina) foi utilizado para hospedagem do repositório `ProjetoRotina`. Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Feature Branch Workflow, mostrado na Figura a seguir.
 
 > **Exemplo - GitHub Feature Branch Workflow**:
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/FLUXO%20DO%20CODIGO.png)
+>![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/FLUXO%20DO%20CODIGO.png)
 
 *	`Laranja` - .html
 *	`Azul` - .css
 *	`Amarelo` - .js
 
 O fluxo está dividido por ‘commits’, onde cada faixa linear representa uma modificação feita em um determinado dia.
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/FLUXO%20DO%20CODIGO%202.png)
+![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/FLUXO%20DO%20CODIGO%202.png)
 As setas representando a integração dos códigos com outros. Por exemplo, um commit de **js** relacionado ao commit de **html**.
 
 > Quanto à gerência de issues, o projeto ainda não adotou esses métodos.
@@ -408,7 +408,7 @@ A publicação do site no Netlify é feita por meio de uma submissão do projeto
 
 # Template do Site
 O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface elaborado anteriormente, conforme Figura a seguir. Na parte azul, corresponde a área do “<nav>” junto com a logo. Na parte amarela é o “<main>” onde a maioria dos templates são divididas em duas colunas. Por último, na parte laranja fica o “<footer>”, com as informações da empresa e o contato.
-> [imagem]()
+> ![imagem]()
 
 O template criado está disponível no site http://github.com/…..  e é composto pelos seguintes principais layouts: 
 * Home;
@@ -418,11 +418,11 @@ O template criado está disponível no site http://github.com/…..  e é compos
 A responsividade segue o padrão do Bootstrap 4.1.1.
 
 * Home 
-> [imagem]()
+> ![imagem]()
 * Login
-> [imagem]()
+> ![imagem]()
 * Tela de Estudos
-> [imagem]()
+> ![imagem]()
 
 
 
@@ -487,23 +487,23 @@ E em um último ato ao clicar na logo da Rotineira ou em home ela volta para a p
 Estando na página principal, será visto um resumo das vantagens de usar nossa aplicação e um pequeno texto sobre quem somos, os criadores do conteúdo.
 Além disto duas opções de botões um para novos usuários no botão registre-se, e um botão para já usuários com inscrição Login. 
 
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE1.png)
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE1.png)
 Caso seja um novo usuário e clique em registre-se, será aberto a página abaixo para o usuário inserir seus dados e criar seu login. 
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE2.png)
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE2.png)
 Após o registro ou login, será redirecionado para página principal (Home), sendo demostrado as informações do usuário que fez o login e suas atividades adicionadas pelo próprio.
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE3.png)
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE3.png)
 No menu acima com as opções para navegar dentro do site.
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE4.png)
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE4.png)
 Selecionando a próxima página descrita como “Estudos” será redirecionado para página a seguir.
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE5.png)
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE5.png)
 Nesta guia de estudos serão encontrados diversos elementos para auxílio das atividades do usuário. Como por exemplo o cronometro (Para mensurar tempo das atividades), pomodoro (Técnica usada para realizar atividades e se manter mais focado, fazendo tal atividade por um ciclo e descansando por um outro ciclo), e um bloco de notas para anotações pertinentes a cada assunto descrito pelo usuário. 
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE6.png)
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE6.png)
 Navegando para próxima aba descrita como “exercícios”, o usuário é redirecionado para uma aba onde se encontra caso queira, os exercícios físicos para pratica pelo usuário. 
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE7.png)
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE7.png)
 Navegando para próxima e última aba descrita como “Agenda” se encontra o bloco de notas com anotações criadas pelo usuário. 
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE8.png)
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE8.png)
 Nesta mesma aba se encontra o calendário, para consulta da data e adição de eventos nas datas pertinentes. 
-> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE9.png)
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE9.png)
 Encontrando ao rodapé de todas as páginas, encontra-se as informações de contato pertinentes aos criadores. 
 
 # Referências
