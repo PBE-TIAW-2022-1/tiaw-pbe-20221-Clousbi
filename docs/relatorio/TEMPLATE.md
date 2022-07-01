@@ -372,7 +372,7 @@ As setas representando a integração dos códigos com outros. Por exemplo, um c
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nesta seção são apresentados os detalhes técnicos da solução criada pela equipe, tratando da Arquitetura da Solução, as estruturas de dados e as telas já implementadas.
 
 ## Tecnologias Utilizadas
 
@@ -405,42 +405,36 @@ A publicação do site no Netlify é feita por meio de uma submissão do projeto
 [GitHub](https://github.com/Clousbi/templatepadrao)
 
 
-
 # Template do Site
 O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface elaborado anteriormente, conforme Figura a seguir. Na parte azul, corresponde a área do “<nav>” junto com a logo. Na parte amarela é o “<main>” onde a maioria dos templates são divididas em duas colunas. Por último, na parte laranja fica o “<footer>”, com as informações da empresa e o contato.
-> ![imagem]()
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TEMPLATE.png)
 
-O template criado está disponível no site http://github.com/…..  e é composto pelos seguintes principais layouts: 
+O template criado está disponível no site <https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/tree/master/codigo>  e é composto pelos seguintes principais layouts: 
 * Home;
 * Modal de login;
 * Tela de estudos.
 
 A responsividade segue o padrão do Bootstrap 4.1.1.
 
-* Home 
-> ![imagem]()
+* Home
+Área que abrange todas as visualizações iniciais do site. 
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/HOME%202.png)
 * Login
-> ![imagem]()
+Área que o usuário realiza o login para ter acesso ao site.
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/LOGIN%202.png)
 * Tela de Estudos
-> ![imagem]()
-
-
-
+Área com funcionalidade de organizar os estudos do usuário.
+> ![imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/ESTUDOS%202.png)
 
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+O processo de realização dos testes da solução desenvolvida está documentado na seção que se segue e traz os planos de testes de software e de usabilidade, na sequência, o registro dos testes realizados.
 
 ## Plano de Testes
 ### Software
 ### Usabilidade
 O planejamento dos testes de usabilidade a serem realizados com usuários são descritos na Tabela a seguir.
-
 >Detalhes do público envolvido nos testes
 
 * Idade:
