@@ -383,14 +383,10 @@ A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-s
 *	`Amarelo` - .js
 
 O fluxo está dividido por ‘commits’, onde cada faixa linear representa uma modificação feita em um determinado dia.
-> [imagem]()
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/FLUXO%20DO%20CODIGO%202.png)
 As setas representando a integração dos códigos com outros. Por exemplo, um commit de **js** relacionado ao commit de **html**.
 
 > Quanto à gerência de issues, o projeto ainda não adotou esses métodos.
-
-
-# **############## SPRINT 1 ACABA AQUI #############**
-
 
 # Projeto da Solução
 
@@ -398,7 +394,7 @@ As setas representando a integração dos códigos com outros. Por exemplo, um c
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
 
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
@@ -415,7 +411,7 @@ As setas representando a integração dos códigos com outros. Por exemplo, um c
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+Os componentes que fazem parte da solução são apresentados na Figura que se segue
 
 > Inclua um diagrama da solução e descreva os módulos e as tecnologias
 > que fazem parte da solução. Discorra sobre o diagrama.
