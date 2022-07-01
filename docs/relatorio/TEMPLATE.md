@@ -432,7 +432,6 @@ A responsividade segue o padrão do Bootstrap 4.1.1.
 O processo de realização dos testes da solução desenvolvida está documentado na seção que se segue e traz os planos de testes de software e de usabilidade, na sequência, o registro dos testes realizados.
 
 ## Plano de Testes
-### Software
 ### Usabilidade
 O planejamento dos testes de usabilidade a serem realizados com usuários são descritos na Tabela a seguir.
 >Detalhes do público envolvido nos testes
@@ -476,7 +475,6 @@ E em um último ato ao clicar na logo da Rotineira ou em home ela volta para a p
 
 
 ## Registros de Testes
-### Software
 ### Usabilidade
 Estando na página principal, será visto um resumo das vantagens de usar nossa aplicação e um pequeno texto sobre quem somos, os criadores do conteúdo.
 Além disto duas opções de botões um para novos usuários no botão registre-se, e um botão para já usuários com inscrição Login. 
