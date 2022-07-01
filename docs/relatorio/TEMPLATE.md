@@ -347,9 +347,9 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Word | - | 
+|Processo de Design Thinkgin  | GitHub | https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/DESIGNTHINKING.md | 
 |Repositório de código | GitHub | https://github.com/Clousbi/ProjetoRotina | 
-|Hospedagem do site | - | - | 
+|Hospedagem do site | Netlify | https://lively-hummingbird-dc8540.netlify.app/ | 
 |Protótipo Interativo 1 | Figma | https://www.figma.com/proto/owfF2t9p0Sc4RZsWc4TUpz/Untitled?node-id=16%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=16%3A2&show-proto-sidebar=1 | 
 |Protótipo Interativo 2 | Figma | https://www.figma.com/proto/YAgKSDlkGNv2LQq4LYepvH/Prototyping-in-Figma?node-id=0%3A78&scaling=scale-down&page-id=0%3A1&starting-point-node-id=0%3A2 | 
 
@@ -441,7 +441,6 @@ A responsividade segue o padrão do Bootstrap 4.1.1.
 ### Usabilidade
 O planejamento dos testes de usabilidade a serem realizados com usuários são descritos na Tabela a seguir.
 
->Identificação de objetivos do teste de usabilidade
 >Detalhes do público envolvido nos testes
 
 * Idade:
@@ -483,28 +482,28 @@ E em um último ato ao clicar na logo da Rotineira ou em home ela volta para a p
 
 
 ## Registros de Testes
-
+### Software
 ### Usabilidade
 Estando na página principal, será visto um resumo das vantagens de usar nossa aplicação e um pequeno texto sobre quem somos, os criadores do conteúdo.
 Além disto duas opções de botões um para novos usuários no botão registre-se, e um botão para já usuários com inscrição Login. 
 
-> [imagem]()
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE1.png)
 Caso seja um novo usuário e clique em registre-se, será aberto a página abaixo para o usuário inserir seus dados e criar seu login. 
-> [imagem]()
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE2.png)
 Após o registro ou login, será redirecionado para página principal (Home), sendo demostrado as informações do usuário que fez o login e suas atividades adicionadas pelo próprio.
-> [imagem]()
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE3.png)
 No menu acima com as opções para navegar dentro do site.
-> [imagem]()
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE4.png)
 Selecionando a próxima página descrita como “Estudos” será redirecionado para página a seguir.
-> [imagem]()
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE5.png)
 Nesta guia de estudos serão encontrados diversos elementos para auxílio das atividades do usuário. Como por exemplo o cronometro (Para mensurar tempo das atividades), pomodoro (Técnica usada para realizar atividades e se manter mais focado, fazendo tal atividade por um ciclo e descansando por um outro ciclo), e um bloco de notas para anotações pertinentes a cada assunto descrito pelo usuário. 
-> [imagem]()
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE6.png)
 Navegando para próxima aba descrita como “exercícios”, o usuário é redirecionado para uma aba onde se encontra caso queira, os exercícios físicos para pratica pelo usuário. 
-> [imagem]()
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE7.png)
 Navegando para próxima e última aba descrita como “Agenda” se encontra o bloco de notas com anotações criadas pelo usuário. 
-> [imagem]()
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE8.png)
 Nesta mesma aba se encontra o calendário, para consulta da data e adição de eventos nas datas pertinentes. 
-> [imagem]()
+> [imagem](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-Clousbi/blob/master/docs/relatorio/imagens/TESTE9.png)
 Encontrando ao rodapé de todas as páginas, encontra-se as informações de contato pertinentes aos criadores. 
 
 # Referências
